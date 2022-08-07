@@ -1,9 +1,10 @@
-**Hi there 👋, I am ```Kyant```.**
+### Hi there 👋, I am ```Kyant```
 
 ---
 
 ```Favorites```
 
+- Google
 - Kotlin
 - Modern Android Development
 - Jetpack Compose
