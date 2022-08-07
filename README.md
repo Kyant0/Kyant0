@@ -8,6 +8,7 @@
 - Kotlin
 - Modern Android Development
 - Jetpack Compose
+- UI designing
 - color science
 
 ```Contact info```
