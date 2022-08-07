@@ -1,6 +1,16 @@
-### Hi there 👋
+**Hi there 👋, I am ```Kyant```.**
 
-Contact me via
+---
+
+```Favorites```
+
+- Kotlin
+- Modern Android Development
+- Jetpack Compose
+- color science
+
+```Contact info```
+
 - ✉️ **Email**: yetiwang51@gmail.com
 - 🐧 **QQ**: 257314409
 - 🐦 **Twitter**: [@Kyant15](https://twitter.com/Kyant15)
