@@ -1,17 +1,15 @@
-### Hi there 👋, I am ```Kyant```
+## Hi there 👋, I am Kyant.
 
----
-
-```Favorites```
+### Favorites
 
 - Google
 - Kotlin
 - Modern Android Development
 - Jetpack Compose
 - UI designing
-- color science
+- Color science
 
-```Contact info```
+### Contact me
 
 - ✉️ **Email**: yetiwang51@gmail.com
 - 🐧 **QQ**: 257314409
