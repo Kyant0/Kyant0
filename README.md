@@ -3,8 +3,8 @@
 ### Favorites
 
 - Google
+- Android
 - Kotlin
-- Modern Android Development
 - Jetpack Compose
 - UI designing
 - Color science
