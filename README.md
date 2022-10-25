@@ -1,5 +1,7 @@
 ## Hi there 👋, I am Kyant.
 
+Blog: https://kyant.eu5.org
+
 ### Favorites
 
 - Google
