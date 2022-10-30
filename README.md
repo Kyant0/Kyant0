@@ -6,10 +6,24 @@ Blog: https://kyant.eu5.org
 
 - Google
 - Android
-- Kotlin
 - Jetpack Compose
 - UI designing
 - Color science
+
+## Languages
+
+Master:
+- Kotlin
+- Java
+
+They suck:
+- C
+- JavaScript
+- Rust
+
+Never learn (Blacklist):
+- C++
+- Python
 
 ### Contact me
 
