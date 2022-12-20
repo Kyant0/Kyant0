@@ -12,18 +12,11 @@ Blog: https://kyant.eu5.org
 
 ## Languages
 
-Master:
 - Kotlin
 - Java
-
-They suck:
 - C
 - JavaScript
 - Rust
-
-Never learn (Blacklist):
-- C++
-- Python
 
 ### Contact me
 
