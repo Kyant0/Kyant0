@@ -24,3 +24,7 @@ or https://vanilla.surge.sh
 - ✉️ **Email**: yetiwang51@gmail.com
 - 🐧 **QQ**: 257314409
 - 🛩️ **Telegram**: [@Kyant0](https://t.me/Kyant0)
+
+### Give me reward
+
+![WeChat Reward QR code](mm_reward_qrcode_1676621271797.png)
