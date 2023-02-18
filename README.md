@@ -1,6 +1,7 @@
 ## Hi there 👋, I am Kyant.
 
-Blog: https://kyant.eu5.org
+Vanilla documentation: https://vanilla.fanjv.cn
+or https://vanilla.surge.sh
 
 ### Favorites
 
