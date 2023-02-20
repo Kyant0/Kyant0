@@ -29,4 +29,5 @@ or https://vanilla.surge.sh
 
 ![WeChat Reward QR code](mm_reward_qrcode_1676621271797.png)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyant0)](https://github.com/Kyant0/github-readme-stats) 
+[![Kyant0's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyant0)](https://github.com/Kyant0/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyant0&layout=compact)](https://github.com/Kyant0/github-readme-stats) 
