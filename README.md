@@ -1,7 +1,7 @@
 ## Hi there 👋, I am Kyant.
 
-Vanilla documentation: https://vanilla.fanjv.cn
-or https://vanilla.surge.sh
+[![Kyant0's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyant0)](https://github.com/Kyant0/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyant0&layout=compact)](https://github.com/Kyant0/github-readme-stats) 
 
 ### Favorites
 
@@ -10,14 +10,6 @@ or https://vanilla.surge.sh
 - Jetpack Compose
 - UI designing
 - Color science
-
-## Languages
-
-- Kotlin
-- Java
-- C
-- JavaScript
-- Rust
 
 ### Contact me
 
@@ -28,6 +20,3 @@ or https://vanilla.surge.sh
 ### Give me reward
 
 ![WeChat Reward QR code](mm_reward_qrcode_1676621271797.png)
-
-[![Kyant0's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyant0)](https://github.com/Kyant0/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyant0&layout=compact)](https://github.com/Kyant0/github-readme-stats) 
