@@ -8,15 +8,15 @@
 - Google
 - Android
 - Jetpack Compose
-- UI designing
+- UI design
 - Color science
 
 ### Contact me
 
 - ✉️ **Email**: yetiwang51@gmail.com
 - 🐧 **QQ**: 257314409
-- 🛩️ **Telegram**: [@Kyant0](https://t.me/Kyant0)
+- 🛩️ **Telegram**: [@Kyant0](https://t.me/vms23)
 
-### Give me reward
+### Support me
 
 ![WeChat Reward QR code](mm_reward_qrcode_1676621271797.png)
