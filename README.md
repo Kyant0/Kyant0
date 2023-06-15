@@ -15,7 +15,7 @@
 
 - ✉️ **Email**: yetiwang51@gmail.com
 - 🐧 **QQ**: 257314409
-- 🛩️ **Telegram**: [@Kyant0](https://t.me/vms23)
+- 🛩️ **Telegram**: [@VMS](https://t.me/vms23)
 
 ### Support me
 
