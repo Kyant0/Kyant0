@@ -33,5 +33,5 @@
 哈哈我就写中文啦😁 (Chinese here)
 
 - KBrwoser (由于 Chrome 足够好所以放弃，但交互比 Chrome 超前)
-- Music You / 音悦 (网易云音乐第三方客户端，是最早使用 Material You 设计的一批应用。我独立实现谷歌的色彩引擎 monet，后来被某些知名的开源 Compose 项目中使用)
-- Vanilla (本地音乐播放器，本人第一款上架谷歌商店的应用，受大量好评。由于一直在用最新的技术导致大量重写而停更，被目前的 HarMusic [暂定名] 替代)
+- Music You / 音悦 (网易云音乐第三方客户端，是最早使用 Material You 设计的一批应用，是各种以 You 结尾命名的 Material You 应用的祖先。我独立实现的谷歌的色彩引擎 monet 后来被某些知名的开源 Compose 项目中使用)
+- Vanilla (本地音乐播放器，本人第一款上架谷歌商店的应用，受大量好评。由于一直在用最新的技术导致大量重写而停更，被目前的新项目 HarMusic [暂定名] 替代)
