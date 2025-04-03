@@ -11,5 +11,4 @@
 
 ### Contact me
 
-- 🐧 **QQ**: 257314409
 - 🛩️ **Telegram**: [@kyant_dev](https://t.me/kyant_dev)
