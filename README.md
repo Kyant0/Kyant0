@@ -2,4 +2,8 @@
 
 ### Contact me
 
- **Telegram**: [@kyant_dev](https://t.me/kyant_dev)
+- **Telegram**: [@kyant_dev](https://t.me/kyant_dev)
+
+### 支持我 🇨🇳 ###
+
+- **爱发电**: [kyant](https://ifdian.net/a/kyant)
